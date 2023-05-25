@@ -1,0 +1,21 @@
+1.1. 회원가입
+> 1 hankook 3456 hk pwd1
+2.1. 로그인
+> hk pwd1
+3.1. 채용 정보 등록
+> accounting 2 2023/05/26
+3.2. 등록된 채용 정보 조회
+> accounting 2 2023/05/26
+2.2. 로그아웃
+> hk
+1.1. 회원가입
+> 2 hong 98765 hn pwd2
+2.1. 로그인
+> hn pwd2
+4.1. 채용 정보 검색
+> hankook 3456 accounting 2 2023/05/26
+4.2. 채용 지원
+> hankook 3456 accounting
+4.3. 지원 정보 조회
+> hankook 3456 accounting 2 2023/05/26
+6.1. 종료
